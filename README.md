@@ -26,6 +26,15 @@ node server/bin/www
 账户 admin
 密码 123456
 
+# 数据源/mock
+dumall-users   用户表
+dumall-goods   商品表
+
+
+# 笔记/mock
+Vue-notes.doc 个人随手记
+
+
 #后续
 远程服务端数据已部署，目前正在等待域名备案中，敬请期待项目上线
 ```
