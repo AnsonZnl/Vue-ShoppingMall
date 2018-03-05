@@ -1,0 +1,22 @@
+{"msg":"qwrq",
+"result":[{ 
+    "productID" : "43", 
+    "productName" : "candy",
+    "productPrice" : "12",
+    "productImg" : "static/1.jpg"
+},{ 
+    "productID" : "4223", 
+    "productName" : "candy1",
+    "productPrice" : "112",
+    "productImg" : "static/2.jpg"
+},{ 
+    "productID" : "4323", 
+    "productName" : "candy3",
+    "productPrice" : "12231",
+    "productImg" : "static/3.jpg"
+},{ 
+    "productID" : "433", 
+    "productName" : "cand4y",
+    "productPrice" : "142",
+    "productImg" : "static/4.jpg"
+}]}
